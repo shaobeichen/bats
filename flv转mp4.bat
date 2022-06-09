@@ -1,0 +1,1 @@
+ffmpeg -i input.flv output.mp4
